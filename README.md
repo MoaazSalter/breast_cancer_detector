@@ -36,4 +36,4 @@ jupyter notebook Classification_Breast_Cancer_Wisconsin_Diagnostic.ipynb
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MoaazSalter)
